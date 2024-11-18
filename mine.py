@@ -1,2 +1,2 @@
 print('geoinformatyka rządzi! Ooooooouyeeee')
-print('rozpo też')
+print('rozpo  też')
