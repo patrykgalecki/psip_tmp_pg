@@ -1,3 +1,3 @@
 print('geoinformatyka rządzi! Ooooooouyeeee')
-print('rozpo  też')
-pr
+print('rozpo  wiadomo')
+print('meteo tez')
